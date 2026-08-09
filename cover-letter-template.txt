@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the [JOB_TITLE] position at [COMPANY_NAME]. As a full-stack developer with extensive experience in AI-assisted development, I am excited about the opportunity to contribute to your team.
+
+With over 10 projects completed in the past 6 months using modern AI development tools like Cursor AI, I bring a unique combination of technical expertise and efficient development practices. My experience includes:
+
+• Full-stack web development (React, Node.js, TypeScript)
+• Mobile app development
+• AI model integration and automation
+• Rapid prototyping and deployment
+
+I am particularly drawn to [COMPANY_NAME] because of your innovative approach to technology and commitment to excellence.
+
+I would welcome the opportunity to discuss how my skills in AI-assisted development can contribute to your team's success. Thank you for considering my application.
+
+Best regards,
+[YOUR_NAME]
