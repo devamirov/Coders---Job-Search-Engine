@@ -1,7 +1,11 @@
-# Spectre — Job Search Engine
+<p align="center">
+  <img src="./assets/Coders---Job-Search-Engine-logo.png" width="180">
+</p>
 
-**Type:** Web app (job search / auto-apply platform)  
-**Stack:** Node.js, Python (Streamlit), Docker, email backend  
+<h1 align="center">Spectre — Job Search Engine</h1>
+
+**Type:** Web app (job search)  
+**Stack:** Node.js, Python (Streamlit)  
 **Live:** https://spectre.guru  
 
 ## Overview
